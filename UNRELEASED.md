@@ -17,6 +17,7 @@ Use [the changelog guidelines](https://git.io/polaris-changelog-guidelines) to f
 ### Enhancements
 
 - Made the `action` prop optional on `EmptyState` ([#1583](https://github.com/Shopify/polaris-react/pull/1583))
+- Added `textAlign` prop to Button ([#1576](https://github.com/Shopify/polaris-react/pull/1576))
 
 ### Bug fixes
 
